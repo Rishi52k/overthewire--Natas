@@ -31,4 +31,4 @@ The robots.txt file contains instructions that tell web robots which pages or se
 using burpsuite to change the info of the Referer.
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/88367072/230740882-d5cc7f39-2c69-4cd5-beb5-a03230db34ff.png">
 
-
+flag - 
